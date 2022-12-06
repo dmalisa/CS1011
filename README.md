@@ -3,7 +3,7 @@ This course provides an introduction to object-oriented software development usi
 
 Emphasis is placed on translating written problem descriptions into robust software solutions. Topics covered include Java program structure, algorithmic problem solving and modularization, I/O statements, control constructs, looping techniques, class libraries, user-defined classes and methods, arrays, and ArrayLists.
 
-- Upon successful completion of this course, the student will be able to:
+Learning Outcomes:
 - Design and document an algorithmic solution for a given problem statement
 - Create and interpret complex expressions that use relational and Boolean operators
 - Select the appropriate selection control statement for a given task
